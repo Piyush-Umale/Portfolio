@@ -81,10 +81,10 @@ nav {
 }
 
 .f-cont-parent {
-  padding-top: none;
+  /* background-color: var(--str); */
   padding-left: 4rem;
   padding-right: 4rem;
-  /* background-color: var(--str) */
+  padding-top: 1.5rem;
 }
 
 .f-cont {

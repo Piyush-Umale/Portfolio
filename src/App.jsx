@@ -65,7 +65,7 @@ const App = () => {
         </ul>
       </nav>
 
-      <section className='f-cont-parent'>
+      <div className='f-cont-parent'>
         <div className='f-cont'>
           <div className='f-cont-left'>
             <div className='about-sec'>
@@ -139,7 +139,7 @@ const App = () => {
             </div>
           </div>
         </div>
-      </section>
+      </div>
 
       <section className='about' id='about'>
         <div className='about__visual'>
